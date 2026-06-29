@@ -1,0 +1,16 @@
+# Google API credentials — never commit these
+credentials/token.json
+credentials/credentials.json
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+
+# Temp files
+data/temp_attachments/
+data/tracker/
+
+# VS Code
+.vscode/
